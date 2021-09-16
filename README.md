@@ -1,3 +1,3 @@
 # FlaskAPI-SeleniumTest
 
-Selenium scrap API
+Selenium scrap API for Windows
